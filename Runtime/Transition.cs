@@ -1,10 +1,10 @@
-﻿namespace StM
+﻿namespace UnityStateMachine
 {
     public delegate bool Condition();
 
     public interface Transition
     {
-        public Condition DoesApply { get; set;}
-        public State Next { get; set; }
+        public Condition DoesApply { get;}
+        public State Next { get; }
     }
 }

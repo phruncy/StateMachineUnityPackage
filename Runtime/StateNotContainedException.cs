@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace StM
+namespace UnityStateMachine
 {
     [Serializable]
     internal class StateNotContainedException : Exception

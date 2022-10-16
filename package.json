@@ -1,6 +1,6 @@
 {
     "name": "com.franz.state_machine",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "displayName": "State Machine",
     "description": "Provides a simple, reusable State Machine model.",
     "unity": "2019.1",
@@ -15,4 +15,4 @@
       "email": "franziska.schneider@me.com",
       "url": "https://franziskaschneider.net"
     }
-  }
+}
